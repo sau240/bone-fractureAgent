@@ -1,3 +1,31 @@
+# BoneFracture Detection App
+
+A **frontend application** for detecting bone fractures. This project provides a user-friendly interface for uploading X-ray images and visualizing predicted results from the backend fracture detection model.
+
+---
+
+## 📝 Features
+
+- Upload X-ray images for fracture detection  
+- Intuitive and responsive user interface  
+- Designed to integrate seamlessly with the backend model  
+
+---
+
+## ⚡ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React (if applicable)  
+- **Backend:** (Optional / specify if backend is separate) Python Flask / FastAPI  
+- **Machine Learning:** Pre-trained fracture detection model (if applicable)  
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/bone-fractureAgent.git
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
