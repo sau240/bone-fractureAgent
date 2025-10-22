@@ -1,3 +1,6 @@
+SYSTEM ARCHITECTURE : -
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/39e1901f-ccda-4f12-aa57-7fabfbc9a2d7" />
+
 # BoneFracture Detection App
 
 A **frontend application** for detecting bone fractures. This project provides a user-friendly interface for uploading X-ray images and visualizing predicted results from the backend fracture detection model.
